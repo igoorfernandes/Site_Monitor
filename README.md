@@ -72,7 +72,7 @@ Site: https://www.stackoverflow.com encontrou um erro [404]
 - log.txt: Armazena os resultados do monitoramento.
   
 ### Dependências
-- github.com/fatih/color: Biblioteca para colorir saídas no terminal.
+- <a href="https://github.com/igoorfernandes/Site_Monitor/blob/main/LICENSE">github.com/fatih/color:</a> Biblioteca para colorir saídas no terminal.
 
 ### Licença
 O repositório está sob a licença MIT. Para mais detalhes, acesse <a href="https://github.com/igoorfernandes/Site_Monitor/blob/main/LICENSE">license</a>.
