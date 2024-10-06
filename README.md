@@ -1,5 +1,5 @@
 # Site Monitor
-Este é um programa simples escrito em ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) para monitorar o status de websites. Ele verifica se os sites estão online ou offline e registra essa informação em um arquivo de log.
+Este é um programa simples escrito em Go para monitorar o status de websites. Ele verifica se os sites estão online ou offline e registra essa informação em um arquivo de log.
 
 
 ## Funcionalidades
