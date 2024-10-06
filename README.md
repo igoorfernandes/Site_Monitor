@@ -75,4 +75,4 @@ Site: https://www.stackoverflow.com encontrou um erro [404]
 - github.com/fatih/color: Biblioteca para colorir saídas no terminal.
 
 ### Licença
-O repositório está sob a licença MIT. Para mais detalhes, acesse <a href="...">license</a>.
+O repositório está sob a licença MIT. Para mais detalhes, acesse <a href="https://github.com/igoorfernandes/Site_Monitor/blob/main/LICENSE">license</a>.
