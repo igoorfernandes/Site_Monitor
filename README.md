@@ -1,5 +1,5 @@
 # Site Monitor
-Este é um programa simples escrito em Go para monitorar o status de websites. Ele verifica se os sites estão online ou offline e registra essa informação em um arquivo de log. Foi desenvolvido como parte de um curso da Alura e representa meu primeiro projeto utilizando a linguagem Go..
+Este é um programa escrito em Go para monitorar o status de websites. Ele verifica se os sites estão online ou offline e registra essa informação em um arquivo de log. Foi desenvolvido como parte de um curso da Alura e representa meu primeiro projeto utilizando a linguagem Go..
 
 
 ## Funcionalidades
